@@ -1,0 +1,6 @@
+Nama: Nayaka
+Umur: 18
+Alamat: Bogor
+Nama: rafa
+Umur: 19
+Alamat: bandung
